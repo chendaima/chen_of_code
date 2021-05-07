@@ -1,0 +1,10 @@
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\bin\Debug\pictureBianhao.exe.config
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\bin\Debug\pictureBianhao.exe
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\bin\Debug\pictureBianhao.pdb
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.csprojResolveAssemblyReference.cache
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.Form1.resources
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.Properties.Resources.resources
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.csproj.GenerateResource.Cache
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.exe
+c:\users\chen\documents\visual studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.pdb
+C:\Users\Chen\Documents\Visual Studio 2015\Projects\pictureBianhao\pictureBianhao\obj\Debug\pictureBianhao.Form2.resources
